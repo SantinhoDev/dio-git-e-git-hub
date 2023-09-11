@@ -10,7 +10,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de Versionamento
 
 | Aulas | Resumos |
 |-------|---------| 
-| Aula 1 | [Resumos]()
+| Aula 1 | [Resumos](https://github.com/SantinhoDev/dio-git-e-git-hub/blob/main/resumos/aula%201.md)
 | Aula 2 | [Resumos]()
 | Aula 3 | [Resumos]()
 
